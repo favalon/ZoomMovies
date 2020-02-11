@@ -1,0 +1,630 @@
+{
+"ordinary people": [
+"human",
+"ordinary people"
+],
+"baby": [
+"human",
+"ordinary people"
+],
+"boy": [
+"human",
+"ordinary people"
+],
+"girl": [
+"human",
+"ordinary people"
+],
+"teen": [
+"human",
+"ordinary people"
+],
+"orphan": [
+"human",
+"ordinary people"
+],
+"family": [
+"human",
+"ordinary people"
+],
+"adult": [
+"human",
+"ordinary people"
+],
+"villain": [
+"human",
+"ordinary people"
+],
+"doctor ": [
+"human",
+"ordinary people"
+],
+"scientist": [
+"human",
+"ordinary people"
+],
+"farmer": [
+"human",
+"ordinary people"
+],
+"detective": [
+"human",
+"ordinary people"
+],
+"spy": [
+"human",
+"ordinary people"
+],
+"sportsman": [
+"human",
+"ordinary people"
+],
+"musician": [
+"human",
+"ordinary people"
+],
+"fighter": [
+"human",
+"ordinary people"
+],
+"magician": [
+"human",
+"ordinary people"
+],
+"chief": [
+"human",
+"ordinary people"
+],
+"sailor": [
+"human",
+"ordinary people"
+],
+"adventurer": [
+"human",
+"ordinary people"
+],
+"teacher": [
+"human",
+"ordinary people"
+],
+"santa": [
+"human",
+"ordinary people"
+],
+"soldier": [
+"human",
+"ordinary people"
+],
+"firefighter": [
+"human",
+"ordinary people"
+],
+"wildman": [
+"human",
+"ordinary people"
+],
+"fairy tale characters": [
+"human",
+"fairy tale characters"
+],
+"princess": [
+"human",
+"fairy tale characters"
+],
+"prince": [
+"human",
+"fairy tale characters"
+],
+"queen": [
+"human",
+"fairy tale characters"
+],
+"king": [
+"human",
+"fairy tale characters"
+],
+"fairy": [
+"human",
+"fairy tale characters"
+],
+"elf": [
+"human",
+"fairy tale characters"
+],
+"mermaid": [
+"human",
+"fairy tale characters"
+],
+"smurf": [
+"human",
+"fairy tale characters"
+],
+"snowman": [
+"human",
+"fairy tale characters"
+],
+"magic and fantasy characters": [
+"human",
+"magic and fantasy characters"
+],
+"wizard": [
+"human",
+"magic and fantasy characters"
+],
+"witch": [
+"human",
+"magic and fantasy characters"
+],
+"genie": [
+"human",
+"magic and fantasy characters"
+],
+"immortal": [
+"human",
+"magic and fantasy characters"
+],
+"evil": [
+"human",
+"magic and fantasy characters"
+],
+"minimoy": [
+"human",
+"magic and fantasy characters"
+],
+"troll": [
+"human",
+"magic and fantasy characters"
+],
+"heroic characters": [
+"human",
+"heroic characters"
+],
+"superhero": [
+"human",
+"heroic characters"
+],
+"monster, ghost and vampire": [
+"monster, ghost and vampire",
+"monster, ghost and vampire"
+],
+"monster": [
+"monster, ghost and vampire",
+"monster, ghost and vampire"
+],
+"ghost": [
+"monster, ghost and vampire",
+"monster, ghost and vampire"
+],
+"vampire": [
+"monster, ghost and vampire",
+"monster, ghost and vampire"
+],
+"zombie": [
+"monster, ghost and vampire",
+"monster, ghost and vampire"
+],
+"mummy": [
+"monster, ghost and vampire",
+"monster, ghost and vampire"
+],
+"pets": [
+"animal",
+"pets"
+],
+"cat": [
+"animal",
+"pets"
+],
+"dog": [
+"animal",
+"pets"
+],
+"mouse": [
+"animal",
+"pets"
+],
+"guinea pig": [
+"animal",
+"pets"
+],
+"farm animals": [
+"animal",
+"farm animals"
+],
+"chicken": [
+"animal",
+"farm animals"
+],
+"cow": [
+"animal",
+"farm animals"
+],
+"donkey": [
+"animal",
+"farm animals"
+],
+"duck": [
+"animal",
+"farm animals"
+],
+"horse": [
+"animal",
+"farm animals"
+],
+"pig": [
+"animal",
+"farm animals"
+],
+"rabbit": [
+"animal",
+"farm animals"
+],
+"sheep": [
+"animal",
+"farm animals"
+],
+"llama": [
+"animal",
+"farm animals"
+],
+"wild animals": [
+"animal",
+"wild animals"
+],
+"bear": [
+"animal",
+"wild animals"
+],
+"crocodile": [
+"animal",
+"wild animals"
+],
+"deer": [
+"animal",
+"wild animals"
+],
+"elephant": [
+"animal",
+"wild animals"
+],
+"fox": [
+"animal",
+"wild animals"
+],
+"giraffe": [
+"animal",
+"wild animals"
+],
+"hedgehog": [
+"animal",
+"wild animals"
+],
+"hippo": [
+"animal",
+"wild animals"
+],
+"koala": [
+"animal",
+"wild animals"
+],
+"leopard": [
+"animal",
+"wild animals"
+],
+"lion": [
+"animal",
+"wild animals"
+],
+"lizard": [
+"animal",
+"wild animals"
+],
+"meerkat": [
+"animal",
+"wild animals"
+],
+"primate": [
+"animal",
+"wild animals"
+],
+"raccoon": [
+"animal",
+"wild animals"
+],
+"rhino": [
+"animal",
+"wild animals"
+],
+"sloth": [
+"animal",
+"wild animals"
+],
+"snake": [
+"animal",
+"wild animals"
+],
+"squirrel": [
+"animal",
+"wild animals"
+],
+"tiger": [
+"animal",
+"wild animals"
+],
+"wolf": [
+"animal",
+"wild animals"
+],
+"zebra": [
+"animal",
+"wild animals"
+],
+"chameleon": [
+"animal",
+"wild animals"
+],
+"ocean creatures": [
+"animal",
+"ocean creatures"
+],
+"crab": [
+"animal",
+"ocean creatures"
+],
+"dolphin": [
+"animal",
+"ocean creatures"
+],
+"fish": [
+"animal",
+"ocean creatures"
+],
+"frog": [
+"animal",
+"ocean creatures"
+],
+"penguin": [
+"animal",
+"ocean creatures"
+],
+"seal": [
+"animal",
+"ocean creatures"
+],
+"shark": [
+"animal",
+"ocean creatures"
+],
+"turtle": [
+"animal",
+"ocean creatures"
+],
+"whale": [
+"animal",
+"ocean creatures"
+],
+"sea lion": [
+"animal",
+"ocean creatures"
+],
+"birds": [
+"animal",
+"birds"
+],
+"bird": [
+"animal",
+"birds"
+],
+"swan": [
+"animal",
+"birds"
+],
+"eagle": [
+"animal",
+"birds"
+],
+"bugs and worms": [
+"animal",
+"bugs and worms"
+],
+"spider": [
+"animal",
+"bugs and worms"
+],
+"ant": [
+"animal",
+"bugs and worms"
+],
+"bee": [
+"animal",
+"bugs and worms"
+],
+"bug": [
+"animal",
+"bugs and worms"
+],
+"worm": [
+"animal",
+"bugs and worms"
+],
+"snail": [
+"animal",
+"bugs and worms"
+],
+"imaginary animals": [
+"animal",
+"imaginary animals"
+],
+"dinosaur": [
+"animal",
+"imaginary animals"
+],
+"dragon": [
+"animal",
+"imaginary animals"
+],
+"unicorn": [
+"animal",
+"imaginary animals"
+],
+"beast": [
+"animal",
+"imaginary animals"
+],
+"ninja turtle": [
+"animal",
+"imaginary animals"
+],
+"unidentified creature": [
+"animal",
+"imaginary animals"
+],
+"alien": [
+"alien",
+"alien"
+],
+"robots": [
+"objects",
+"robots"
+],
+"transformer": [
+"objects",
+"robots"
+],
+"robot": [
+"objects",
+"robots"
+],
+"cyborg": [
+"objects",
+"robots"
+],
+"vehicles": [
+"objects",
+"vehicles"
+],
+"car": [
+"objects",
+"vehicles"
+],
+"plane": [
+"objects",
+"vehicles"
+],
+"train": [
+"objects",
+"vehicles"
+],
+"truck": [
+"objects",
+"vehicles"
+],
+"spaceship": [
+"objects",
+"vehicles"
+],
+"ship": [
+"objects",
+"vehicles"
+],
+"toys": [
+"objects",
+"toys"
+],
+"toy": [
+"objects",
+"toys"
+],
+"lego": [
+"objects",
+"toys"
+],
+"puppet": [
+"objects",
+"toys"
+],
+"sponge": [
+"objects",
+"toys"
+],
+"minion": [
+"objects",
+"toys"
+],
+"unidentified substance": [
+"objects",
+"toys"
+],
+"foods": [
+"objects",
+"foods"
+],
+"veggie": [
+"objects",
+"foods"
+],
+"fruit": [
+"objects",
+"foods"
+],
+"plant": [
+"objects",
+"foods"
+],
+"sports": [
+"objects",
+"sports"
+],
+"basketball": [
+"objects",
+"sports"
+],
+"baseball": [
+"objects",
+"sports"
+],
+"skating": [
+"objects",
+"sports"
+],
+"swimming": [
+"objects",
+"sports"
+],
+"surfing": [
+"objects",
+"sports"
+],
+"wrestling": [
+"objects",
+"sports"
+],
+"football": [
+"objects",
+"sports"
+],
+"kung fu": [
+"objects",
+"sports"
+],
+"boxing": [
+"objects",
+"sports"
+],
+"snowboarding": [
+"objects",
+"sports"
+],
+"horse racing": [
+"objects",
+"sports"
+],
+"racing": [
+"objects",
+"sports"
+],
+"hockey": [
+"objects",
+"sports"
+]
+}

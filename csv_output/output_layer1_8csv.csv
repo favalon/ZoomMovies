@@ -1,0 +1,73 @@
+layer,ranking,movie_id,movie_name,cluster_name,character_score,release_score,rating_score,total_score
+1,0,4043665651,Isle of Dogs,animal,2.000000,5.000000,4.000000,11.0
+1,1,906863827,Ferdinand,animal,2.000000,5.000000,3.350000,10.35
+1,2,3195628081,Peter Rabbit,animal,2.000000,5.000000,3.300000,10.3
+1,3,5830189854,Benji,animal,2.000000,5.000000,3.200000,10.2
+1,4,2038104917,My Little Pony: The Movie,animal,2.000000,5.000000,3.050000,10.05
+1,5,1064930444,The Nut Job 2: Nutty by Nature,animal,2.000000,5.000000,2.700000,9.7
+1,6,5586056082,Surviving the Wild,animal,1.000000,5.000000,3.100000,9.1
+1,7,3562742415,Early Man,animal,1.000000,5.000000,3.050000,9.05
+1,8,3493741119,Show Dogs,animal,2.000000,5.000000,1.750000,8.75
+1,0,5788135152,Batman Ninja,superhero-star war,2.000000,5.000000,2.850000,9.85
+1,1,906668270,The Amazing Spider-Man 2,superhero-star war,2.000000,2.000000,3.300000,7.300000000000001
+1,2,1064822848,The Incredibles,superhero-star war,2.000000,1.000000,4.000000,7.0
+1,3,1643935809,Megamind,superhero-star war,2.000000,1.000000,3.650000,6.65
+1,4,1064822834,Spider-Man 2,superhero-star war,2.000000,1.000000,3.650000,6.65
+1,5,4143100030,Spider-Man,superhero-star war,2.000000,1.000000,3.650000,6.65
+1,6,904696351,Teen Titans: Trouble in Tokyo,superhero-star war,2.000000,1.000000,3.600000,6.6
+1,7,916458940,Monsters vs. Aliens,superhero-star war,2.000000,1.000000,3.250000,6.25
+1,8,906201778,Teenage Mutant Ninja Turtles,superhero-star war,2.000000,1.000000,3.150000,6.15
+1,0,905187611,Trolls,magic and fantasy characters,2.000000,3.000000,3.250000,8.25
+1,1,1065118693,The BFG,magic and fantasy characters,2.000000,3.000000,3.200000,8.2
+1,2,915073926,Harry Potter and the Deathly Hallows: Part 2,magic and fantasy characters,2.000000,2.000000,4.050000,8.05
+1,3,1640811946,Strange Magic,magic and fantasy characters,2.000000,3.000000,2.900000,7.9
+1,4,1355188928,Kubo and the Two Strings,magic and fantasy characters,1.000000,3.000000,3.900000,7.9
+1,5,1499453833,Molly Moon and the Incredible Book of Hypnotism,magic and fantasy characters,2.000000,3.000000,2.700000,7.7
+1,6,905534329,The Good Witch's Destiny,magic and fantasy characters,2.000000,2.000000,3.600000,7.6
+1,7,1644691456,The Good Witch's Wonder,magic and fantasy characters,2.000000,2.000000,3.600000,7.6
+1,8,905535332,The Boxtrolls,magic and fantasy characters,2.000000,2.000000,3.400000,7.4
+1,0,1064886808,Appleseed: Alpha,robots-vehicles-toys-foods-sports,2.000000,2.000000,3.300000,7.300000000000001
+1,1,915984986,Ghost in the Shell 2: Innocence,robots-vehicles-toys-foods-sports,2.000000,1.000000,3.800000,6.800000000000001
+1,2,908217216,Legends of Oz: Dorothy's Return,robots-vehicles-toys-foods-sports,2.000000,2.000000,2.750000,6.75
+1,3,905136993,9,robots-vehicles-toys-foods-sports,2.000000,1.000000,3.550000,6.550000000000001
+1,4,913789622,Robots,robots-vehicles-toys-foods-sports,2.000000,1.000000,3.150000,6.15
+1,5,4691995289,The Wizard of Oz,robots-vehicles-toys-foods-sports,2.000000,0.000000,4.000000,6.0
+1,6,913864537,The Iron Giant,robots-vehicles-toys-foods-sports,2.000000,0.000000,4.000000,6.0
+1,7,915552848,Star Wars: The Clone Wars,robots-vehicles-toys-foods-sports,1.000000,1.000000,4.000000,6.0
+1,8,914696730,Bicentennial Man,robots-vehicles-toys-foods-sports,2.000000,0.000000,3.450000,5.45
+1,0,3641752894,Hey Arnold: The Jungle Movie,ordinary people,2.000000,5.000000,3.900000,10.9
+1,1,1336397951,The Breadwinner,ordinary people,2.000000,5.000000,3.850000,10.85
+1,2,1796258443,Jumanji: Welcome to the Jungle,ordinary people,2.000000,5.000000,3.500000,10.5
+1,3,1644676671,The Boss Baby,ordinary people,2.000000,5.000000,3.150000,10.15
+1,4,906986244,Despicable Me 3,ordinary people,2.000000,5.000000,3.150000,10.15
+1,5,3657361888,How to Be a Latin Lover,ordinary people,2.000000,5.000000,2.950000,9.95
+1,6,4653224136,Love's Last Resort,ordinary people,2.000000,5.000000,2.650000,9.65
+1,7,4791812000,Undercover Grandpa,ordinary people,2.000000,5.000000,2.550000,9.55
+1,8,4587051891,The Horse Dancer,ordinary people,2.000000,5.000000,2.300000,9.3
+1,0,1065280196,Home,alien-space,2.000000,3.000000,3.300000,8.3
+1,1,915297124,Ice Age: Collision Course,alien-space,1.000000,3.000000,2.850000,6.85
+1,2,915386073,Mars Needs Moms,alien-space,2.000000,2.000000,2.700000,6.7
+1,3,916507310,Lilo & Stitch,alien-space,2.000000,1.000000,3.600000,6.6
+1,4,916546657,Battle for Terra,alien-space,2.000000,1.000000,3.300000,6.300000000000001
+1,5,913869700,Fantastic Planet,alien-space,2.000000,0.000000,3.900000,5.9
+1,6,907737457,Aliens in the Attic,alien-space,2.000000,1.000000,2.700000,5.7
+1,7,915869536,The Dark Crystal,alien-space,2.000000,0.000000,3.600000,5.6
+1,8,906749833,Final Fantasy: The Spirits Within,alien-space,1.000000,1.000000,3.200000,5.2
+1,0,1643655956,Beauty and the Beast,monster-ghost-vampire,2.000000,5.000000,3.600000,10.6
+1,1,908195926,Hotel Transylvania 2,monster-ghost-vampire,2.000000,3.000000,3.350000,8.35
+1,2,915926210,Monster House,monster-ghost-vampire,2.000000,1.000000,3.300000,6.300000000000001
+1,3,906201778,Teenage Mutant Ninja Turtles,monster-ghost-vampire,1.000000,1.000000,3.150000,5.15
+1,4,913800130,Little Monsters,monster-ghost-vampire,2.000000,0.000000,3.050000,5.050000000000001
+1,5,915136185,Harry and the Hendersons,monster-ghost-vampire,2.000000,0.000000,2.950000,4.95
+1,6,913884980,Scooby-Doo! Curse of the Lake Monster,monster-ghost-vampire,1.000000,1.000000,2.600000,4.6
+1,7,908008584,Scooby-Doo 2: Monsters Unleashed,monster-ghost-vampire,1.000000,1.000000,2.500000,4.5
+1,8,916213463,Scooby-Doo,monster-ghost-vampire,1.000000,1.000000,2.500000,4.5
+1,0,1644547069,Moana,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,3.000000,3.800000,8.8
+1,1,1064758806,Frozen,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,2.000000,3.750000,7.75
+1,2,4483031651,Brave,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,2.000000,3.550000,7.550000000000001
+1,3,4699770126,Shrek,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,1.000000,3.950000,6.95
+1,4,1064950164,Tangled,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,1.000000,3.900000,6.9
+1,5,1064988996,Mirror Mirror,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,2.000000,2.800000,6.800000000000001
+1,6,915141700,Shrek 2,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,1.000000,3.600000,6.6
+1,7,1065004069,Enchanted,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,1.000000,3.550000,6.550000000000001
+1,8,914404693,The Princess and the Frog,princess-prince-queen-king-fairy-elf-mermaid-smurf-snowman,2.000000,1.000000,3.550000,6.550000000000001
